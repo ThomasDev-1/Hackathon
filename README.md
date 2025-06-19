@@ -107,7 +107,7 @@ Color-changing cards have been customized for the hackathon; standard 'Wild' car
 ### Gameplay:
 - Players take turns matching a card from their hand to the top card of the discard pile.
 - If a player has no playable card, they must draw one card from the draw pile.
-- If the drawn card is playable, it must be played.
+- Players may NOT play a card immedietly after drawing a card (pick and play).
 
 ### Winning:
 - The first player with no cards left wins.
