@@ -20,3 +20,14 @@ G:\Other computers\My Computer\College\Coding Club\1_ Hackathon\Backend\UNO-Game
 G:\Other computers\My Computer\College\Coding Club\1_ Hackathon\Backend\UNO-Game-API\obj\Debug\UNO-Game-API.exe
 G:\Other computers\My Computer\College\Coding Club\1_ Hackathon\Backend\UNO-Game-API\obj\Debug\UNO-Game-API.pdb
 G:\Other computers\My Computer\College\Coding Club\1_ Hackathon\Backend\UNO-Game-API\obj\Debug\UNO-Game-API.exe.config
+C:\Users\thomas\Documents\GitHub\Hackathon\C#\UNO-Game-API\bin\Debug\UNO-Game-API.exe.config
+C:\Users\thomas\Documents\GitHub\Hackathon\C#\UNO-Game-API\bin\Debug\UNO-Game-API.exe
+C:\Users\thomas\Documents\GitHub\Hackathon\C#\UNO-Game-API\bin\Debug\UNO-Game-API.pdb
+C:\Users\thomas\Documents\GitHub\Hackathon\C#\UNO-Game-API\obj\Debug\UNO-Game-API.csproj.AssemblyReference.cache
+C:\Users\thomas\Documents\GitHub\Hackathon\C#\UNO-Game-API\obj\Debug\UNO_Game_API.Form1.resources
+C:\Users\thomas\Documents\GitHub\Hackathon\C#\UNO-Game-API\obj\Debug\UNO_Game_API.Properties.Resources.resources
+C:\Users\thomas\Documents\GitHub\Hackathon\C#\UNO-Game-API\obj\Debug\UNO-Game-API.csproj.GenerateResource.cache
+C:\Users\thomas\Documents\GitHub\Hackathon\C#\UNO-Game-API\obj\Debug\UNO-Game-API.csproj.CoreCompileInputs.cache
+C:\Users\thomas\Documents\GitHub\Hackathon\C#\UNO-Game-API\obj\Debug\UNO-Game-API.exe
+C:\Users\thomas\Documents\GitHub\Hackathon\C#\UNO-Game-API\obj\Debug\UNO-Game-API.pdb
+C:\Users\thomas\Documents\GitHub\Hackathon\C#\UNO-Game-API\obj\Debug\UNO-Game-API.exe.config

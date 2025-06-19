@@ -33,6 +33,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -86,7 +89,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Icon.ico" />
     <Content Include="lib\HowToPlay.png" />
+    <Content Include="lib\Icon.ico" />
     <Content Include="lib\sprites\B0.png" />
     <Content Include="lib\sprites\B1.png" />
     <Content Include="lib\sprites\B2.png" />
