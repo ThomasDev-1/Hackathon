@@ -78,8 +78,6 @@ Color-changing cards have been customized for the hackathon; standard 'Wild' car
 - Each color has two +2 cards.
 - +2 cards can only be placed on another +2 card or any card of the same color.
 - +2 cards cause the next player in rotation to pick up 2 cards and forfeit their turn.
-- +2 cards can be stacked on top of other +2 cards, increasing the number of cards to be picked up.
-- +2 cards can be placed on top of +4 cards if they match the color selected by the +4 card (see "+4 Cards").
 
 ### Find Color (Wild Card):
 - There are four Find Color cards in the deck.
