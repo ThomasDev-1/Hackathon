@@ -28,6 +28,7 @@ To promote fairness while enabling efficient onboarding:
 -	Web searches, documentation sites, and forums
 -	-Use of locally hosted or offline AI/LLM tools (e.g., Ollama, LM Studio)
 -	-Installing or importing external libraries not explicitly included in the starter code
+
 Violations of these rules may result in disqualification.
 
 ## Submission & Evaluation
