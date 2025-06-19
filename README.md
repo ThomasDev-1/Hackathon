@@ -79,13 +79,11 @@ Color-changing cards have been customized for the hackathon; standard 'Wild' car
 - +2 cards can only be placed on another +2 card or any card of the same color.
 - +2 cards cause the next player in rotation to pick up 2 cards and forfeit their turn.
 
-### Find Color (Wild Card):
-- There are four Find Color cards in the deck.
-- Find Color cards can be placed on any card.
-- They randomly choose one of the four colors to become the new color in play.
-- The next player must draw cards one at a time until they draw a card that matches the randomly selected color. All drawn cards are added to their hand.
-- The next player in rotation forfeits their turn.
-- The active color is changed to the randomly selected color.
+### Color CHange (Wild Card):
+- There are four Color Change cards in the deck.
+- Color Change cards can be placed on any card.
+- Any card of any color can be played ontop of the color change card.
+- This card is a replacement for the standard uno Color Change card, instead of having the original player chose the color; the next player in the sequence may play a card of any color ontop of this card.
 
 ### +4 Cards (Wild Card):
 - There are four +4 cards in the deck.
