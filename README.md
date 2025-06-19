@@ -79,7 +79,7 @@ Color-changing cards have been customized for the hackathon; standard 'Wild' car
 - +2 cards can only be placed on another +2 card or any card of the same color.
 - +2 cards cause the next player in rotation to pick up 2 cards and forfeit their turn.
 
-### Color CHange (Wild Card):
+### Color Change (Wild Card):
 - There are four Color Change cards in the deck.
 - Color Change cards can be placed on any card.
 - Any card of any color can be played ontop of the color change card.
@@ -88,10 +88,8 @@ Color-changing cards have been customized for the hackathon; standard 'Wild' car
 ### +4 Cards (Wild Card):
 - There are four +4 cards in the deck.
 - +4 cards can be placed on any card.
-- They cause the next player in rotation to pick up 4 cards and forfeit their turn.
-- +4 cards can be stacked on top of other +4 cards, increasing the number of cards to be picked up.
-- +4 cards may not be played on top of +2 cards.
-- +4 cards cause the active color to change to a random color.
+- +4 cards cause the next player in rotation to pick up 4 cards and forfeit their turn.
+- +4 cards allows the next player to play (after the one who forfeited their turn and drew 4) to play any card of any color ontop.
 
 ### Card Summary:
 | Type         | Total Cards |
