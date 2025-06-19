@@ -1,4 +1,4 @@
-Vossie Coding Club Hackathon
+**Vossie Coding Club Hackathon**
 Welcome to the Hackathon! Below are the official rules and event structure. Please read them carefully to ensure a fair and competitive environment for all participants.
 Event Overview
 -	Duration: Approximately 5 hours
