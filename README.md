@@ -58,7 +58,7 @@ Color-changing cards have been customized for the hackathon; standard 'Wild' car
 ### There are 108 cards in total:
 - 76 number cards (0–9)
 - 24 action cards (Skip, Reverse, +2)
-- 8 Wild cards (Find Color, +4)
+- 8 Wild cards (Change Color, +4)
 
 ### Number Cards:
 - Each color (Red, Green, Blue, Yellow) has one "0" card and two of each number from 1–9.
@@ -73,7 +73,6 @@ Color-changing cards have been customized for the hackathon; standard 'Wild' car
 - Each color has two Reverse cards.
 - Reverse cards can only be placed on another Reverse card or any card of the same color.
 - Reverse cards reverse the direction of play.
-- After reversing, the player who played the Reverse card immediately plays again.
 
 ### +2 Cards:
 - Each color has two +2 cards.
